@@ -38,20 +38,4 @@ These notebooks aim to provide a deep understanding of RAG systems by implementi
 - Ability to customize components for specific needs
 - Deeper insights into optimization opportunities
 
-## Important Note
 
-The provided Create-LLama-Example folder serves as a reference implementation only. This project intentionally avoids using LlamaIndex, LangChain, or similar frameworks to provide a clearer understanding of RAG fundamentals. You are encouraged to implement components from scratch following the tutorials in the notebooks.
-
-
-## Getting Started
-
-1. Clone the repository
-2. Install required dependencies
-3. Follow the notebooks in order:
-   - Start with embedding similarity concepts
-   - Learn about chunking strategies
-   - Build your own RAG system using the basic tutorial
-
-## License
-
-MIT License
